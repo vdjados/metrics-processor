@@ -1,0 +1,8 @@
+build/
+metrics.log
+.vs/
+*.user
+*.suo
+*.filters
+*.vcxproj.user
+*.opendb 
